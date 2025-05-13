@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kioskguide/static/css/main.f7f6a38f.css",
+    "main.js": "/kioskguide/static/js/main.04928149.js",
+    "static/js/453.8c3b19ad.chunk.js": "/kioskguide/static/js/453.8c3b19ad.chunk.js",
+    "index.html": "/kioskguide/index.html",
+    "main.f7f6a38f.css.map": "/kioskguide/static/css/main.f7f6a38f.css.map",
+    "main.04928149.js.map": "/kioskguide/static/js/main.04928149.js.map",
+    "453.8c3b19ad.chunk.js.map": "/kioskguide/static/js/453.8c3b19ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f6a38f.css",
+    "static/js/main.04928149.js"
+  ]
+}
