@@ -1,0 +1,23 @@
+/* src/components/SpecialtySelector.css */
+
+/* 이 스타일은 SpecialtySelector 컴포넌트의 최상위 div 요소에 적용됩니다. */
+/* App.css에 정의된 .selector-panel 스타일을 상속받습니다. */
+/* .specialty-selector 클래스는 필요에 따라 SpecialtySelector만의 고유한 스타일을 추가할 때 사용될 수 있습니다. */
+.specialty-selector {
+  /* 예: 만약 SpecialtySelector만 특정 배경색을 갖게 하고 싶다면 여기에 정의 */
+  /* background-color: lightgreen; */
+
+  /* 버튼 간격이나 패널 내부 요소 정렬 등 필요에 따라 추가 스타일 정의 */
+}
+
+/* App.css의 .selector-panel에 정의된 스타일이 이곳의 버튼, h3 등에 자동으로 적용됩니다. */
+/* 만약 SpecialtySelector 내부의 버튼에만 적용하고 싶은 특정 스타일이 있다면 아래와 같이 정의합니다. */
+/* .specialty-selector button { */
+/*   font-weight: normal; // 예시: 이 선택자 버튼은 글씨 두께를 보통으로 */
+/* } */
+
+/* 선택된 진료과목 버튼의 스타일 (App.css에 이미 정의되어 있으나, 필요시 재정의 가능) */
+/* .specialty-selector button.active { */
+/*   background-color: darkgreen; */
+/*   color: white; */
+/* } */
